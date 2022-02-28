@@ -11,7 +11,7 @@ export const Footer = () => {
       </Text>
       <Text>
         Check out the source code of this project{" "}
-        <Link href="https://www.youtube.com/" target="_blank">
+        <Link href="https://github.com/J-Bollie/JaTa" target="_blank">
           here
         </Link>
       </Text>
